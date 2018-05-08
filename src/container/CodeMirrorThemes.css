@@ -1,4 +1,8 @@
+/* Common styles*/
 @import '../../node_modules/codemirror/lib/codemirror.css';
+@import '../../node_modules/codemirror/addon/hint/show-hint.css';
+
+/* Themes */
 @import '../../node_modules/codemirror/theme/3024-day.css';
 @import '../../node_modules/codemirror/theme/3024-night.css';
 @import '../../node_modules/codemirror/theme/abcdef.css';
